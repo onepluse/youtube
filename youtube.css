@@ -1,0 +1,37 @@
+body{
+
+	background-color:#0021b5;
+
+}
+
+h1{
+
+	text-align:  center;
+	
+	background-color: #a80000;
+	
+}
+body {
+
+	text-align: center;
+} 
+img{
+
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	opacity: 0.4;
+	margin: auto;
+   z-index: -30;
+}
+div{
+
+	z-index: 30;
+}
+iframe{
+
+	border:10px dotted #009691;
+
+}
